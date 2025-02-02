@@ -2,9 +2,9 @@ librosa==0.9.2
 opencv-python==4.5.5.64
 opencv-contrib-python==4.6.0.66
 tensorboard==2.11.0
-tqdm==4.64.1
+tqdm
 mpi4py-mpich
-av==9.2.0
+av
 torch --extra-index-url https://download.pytorch.org/whl/cu113
 torchvision --extra-index-url https://download.pytorch.org/whl/cu113
 torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
